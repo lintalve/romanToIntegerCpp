@@ -1,0 +1,3 @@
+/Users/lintalve/Documents/programming/cpp/romanToInteger/cmake-build-debug/CMakeFiles/romanToInteger.dir
+/Users/lintalve/Documents/programming/cpp/romanToInteger/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lintalve/Documents/programming/cpp/romanToInteger/cmake-build-debug/CMakeFiles/rebuild_cache.dir

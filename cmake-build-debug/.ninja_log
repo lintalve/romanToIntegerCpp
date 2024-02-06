@@ -1,0 +1,4 @@
+# ninja log v5
+1	146	1707255313953108765	build.ninja	3cc7eb34d23d29c8
+0	1269	1707255113878261538	CMakeFiles/romanToInteger.dir/romanToInteger.cpp.o	28005c296a0cb962
+1273	1357	1707255113970668940	romanToInteger	f2e50cba681baa5c
