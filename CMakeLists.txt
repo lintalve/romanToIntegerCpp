@@ -6,4 +6,9 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(romanToInteger
         romanToInteger.cpp
         testClass.cpp
-        testClass.h)
+        testClass.h
+        February2024/array_v.cpp
+        February2024/array_v2.cpp
+        February2024/class.cpp
+        February2024/const_v1.cpp
+        February2024/class_v2.cpp)
