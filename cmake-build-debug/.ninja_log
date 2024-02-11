@@ -1,4 +1,10 @@
 # ninja log v5
-1	146	1707255313953108765	build.ninja	3cc7eb34d23d29c8
-0	1269	1707255113878261538	CMakeFiles/romanToInteger.dir/romanToInteger.cpp.o	28005c296a0cb962
 1273	1357	1707255113970668940	romanToInteger	f2e50cba681baa5c
+10	135	1707483504965661501	CMakeFiles/romanToInteger.dir/February2024/array_v2.cpp.o	55ce15882590f380
+9	94	1707483504925513680	CMakeFiles/romanToInteger.dir/testClass.cpp.o	446977c8015352fe
+1	131	1707632565017179229	build.ninja	3cc7eb34d23d29c8
+10	130	1707483504957602137	CMakeFiles/romanToInteger.dir/February2024/class.cpp.o	4b193b22b10fb648
+11	125	1707483504952103656	CMakeFiles/romanToInteger.dir/February2024/const_v1.cpp.o	a1a72369751ee421
+0	1269	1707255113878261538	CMakeFiles/romanToInteger.dir/romanToInteger.cpp.o	28005c296a0cb962
+10	135	1707483504966178198	CMakeFiles/romanToInteger.dir/February2024/array_v.cpp.o	e78470006b4d2b4c
+11	1002	1707483505828978076	CMakeFiles/romanToInteger.dir/February2024/class_v2.cpp.o	e1a5ff21d21fd156

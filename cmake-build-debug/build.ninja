@@ -61,6 +61,78 @@ build CMakeFiles/romanToInteger.dir/testClass.cpp.o: CXX_COMPILER__romanToIntege
   OBJECT_DIR = CMakeFiles/romanToInteger.dir
   OBJECT_FILE_DIR = CMakeFiles/romanToInteger.dir
 
+build CMakeFiles/romanToInteger.dir/February2024/array_v.cpp.o: CXX_COMPILER__romanToInteger_unscanned_Debug /Users/lintalve/Documents/programming/cpp/romanToInteger/February2024/array_v.cpp || cmake_object_order_depends_target_romanToInteger
+  DEP_FILE = CMakeFiles/romanToInteger.dir/February2024/array_v.cpp.o.d
+  FLAGS = -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/romanToInteger.dir
+  OBJECT_FILE_DIR = CMakeFiles/romanToInteger.dir/February2024
+
+build CMakeFiles/romanToInteger.dir/February2024/array_v2.cpp.o: CXX_COMPILER__romanToInteger_unscanned_Debug /Users/lintalve/Documents/programming/cpp/romanToInteger/February2024/array_v2.cpp || cmake_object_order_depends_target_romanToInteger
+  DEP_FILE = CMakeFiles/romanToInteger.dir/February2024/array_v2.cpp.o.d
+  FLAGS = -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/romanToInteger.dir
+  OBJECT_FILE_DIR = CMakeFiles/romanToInteger.dir/February2024
+
+build CMakeFiles/romanToInteger.dir/February2024/class.cpp.o: CXX_COMPILER__romanToInteger_unscanned_Debug /Users/lintalve/Documents/programming/cpp/romanToInteger/February2024/class.cpp || cmake_object_order_depends_target_romanToInteger
+  DEP_FILE = CMakeFiles/romanToInteger.dir/February2024/class.cpp.o.d
+  FLAGS = -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/romanToInteger.dir
+  OBJECT_FILE_DIR = CMakeFiles/romanToInteger.dir/February2024
+
+build CMakeFiles/romanToInteger.dir/February2024/const_v1.cpp.o: CXX_COMPILER__romanToInteger_unscanned_Debug /Users/lintalve/Documents/programming/cpp/romanToInteger/February2024/const_v1.cpp || cmake_object_order_depends_target_romanToInteger
+  DEP_FILE = CMakeFiles/romanToInteger.dir/February2024/const_v1.cpp.o.d
+  FLAGS = -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/romanToInteger.dir
+  OBJECT_FILE_DIR = CMakeFiles/romanToInteger.dir/February2024
+
+build CMakeFiles/romanToInteger.dir/February2024/class_v2.cpp.o: CXX_COMPILER__romanToInteger_unscanned_Debug /Users/lintalve/Documents/programming/cpp/romanToInteger/February2024/class_v2.cpp || cmake_object_order_depends_target_romanToInteger
+  DEP_FILE = CMakeFiles/romanToInteger.dir/February2024/class_v2.cpp.o.d
+  FLAGS = -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/romanToInteger.dir
+  OBJECT_FILE_DIR = CMakeFiles/romanToInteger.dir/February2024
+
+build CMakeFiles/romanToInteger.dir/February2024/pointers.cpp.o: CXX_COMPILER__romanToInteger_unscanned_Debug /Users/lintalve/Documents/programming/cpp/romanToInteger/February2024/pointers.cpp || cmake_object_order_depends_target_romanToInteger
+  DEP_FILE = CMakeFiles/romanToInteger.dir/February2024/pointers.cpp.o.d
+  FLAGS = -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/romanToInteger.dir
+  OBJECT_FILE_DIR = CMakeFiles/romanToInteger.dir/February2024
+
+build CMakeFiles/romanToInteger.dir/February2024/pointers_v1.cpp.o: CXX_COMPILER__romanToInteger_unscanned_Debug /Users/lintalve/Documents/programming/cpp/romanToInteger/February2024/pointers_v1.cpp || cmake_object_order_depends_target_romanToInteger
+  DEP_FILE = CMakeFiles/romanToInteger.dir/February2024/pointers_v1.cpp.o.d
+  FLAGS = -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/romanToInteger.dir
+  OBJECT_FILE_DIR = CMakeFiles/romanToInteger.dir/February2024
+
+build CMakeFiles/romanToInteger.dir/romanToInteger_v1.cpp.o: CXX_COMPILER__romanToInteger_unscanned_Debug /Users/lintalve/Documents/programming/cpp/romanToInteger/romanToInteger_v1.cpp || cmake_object_order_depends_target_romanToInteger
+  DEP_FILE = CMakeFiles/romanToInteger.dir/romanToInteger_v1.cpp.o.d
+  FLAGS = -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/romanToInteger.dir
+  OBJECT_FILE_DIR = CMakeFiles/romanToInteger.dir
+
+build CMakeFiles/romanToInteger.dir/February2024/malloc.cpp.o: CXX_COMPILER__romanToInteger_unscanned_Debug /Users/lintalve/Documents/programming/cpp/romanToInteger/February2024/malloc.cpp || cmake_object_order_depends_target_romanToInteger
+  DEP_FILE = CMakeFiles/romanToInteger.dir/February2024/malloc.cpp.o.d
+  FLAGS = -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/romanToInteger.dir
+  OBJECT_FILE_DIR = CMakeFiles/romanToInteger.dir/February2024
+
+build CMakeFiles/romanToInteger.dir/February2024/time.cpp.o: CXX_COMPILER__romanToInteger_unscanned_Debug /Users/lintalve/Documents/programming/cpp/romanToInteger/February2024/time.cpp || cmake_object_order_depends_target_romanToInteger
+  DEP_FILE = CMakeFiles/romanToInteger.dir/February2024/time.cpp.o.d
+  FLAGS = -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/romanToInteger.dir
+  OBJECT_FILE_DIR = CMakeFiles/romanToInteger.dir/February2024
+
+build CMakeFiles/romanToInteger.dir/February2024/splitInt.cpp.o: CXX_COMPILER__romanToInteger_unscanned_Debug /Users/lintalve/Documents/programming/cpp/romanToInteger/February2024/splitInt.cpp || cmake_object_order_depends_target_romanToInteger
+  DEP_FILE = CMakeFiles/romanToInteger.dir/February2024/splitInt.cpp.o.d
+  FLAGS = -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/romanToInteger.dir
+  OBJECT_FILE_DIR = CMakeFiles/romanToInteger.dir/February2024
+
+build CMakeFiles/romanToInteger.dir/February2024/splitInt_v1.cpp.o: CXX_COMPILER__romanToInteger_unscanned_Debug /Users/lintalve/Documents/programming/cpp/romanToInteger/February2024/splitInt_v1.cpp || cmake_object_order_depends_target_romanToInteger
+  DEP_FILE = CMakeFiles/romanToInteger.dir/February2024/splitInt_v1.cpp.o.d
+  FLAGS = -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/romanToInteger.dir
+  OBJECT_FILE_DIR = CMakeFiles/romanToInteger.dir/February2024
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target romanToInteger
@@ -69,7 +141,7 @@ build CMakeFiles/romanToInteger.dir/testClass.cpp.o: CXX_COMPILER__romanToIntege
 #############################################
 # Link the executable romanToInteger
 
-build romanToInteger: CXX_EXECUTABLE_LINKER__romanToInteger_Debug CMakeFiles/romanToInteger.dir/romanToInteger.cpp.o CMakeFiles/romanToInteger.dir/testClass.cpp.o
+build romanToInteger: CXX_EXECUTABLE_LINKER__romanToInteger_Debug CMakeFiles/romanToInteger.dir/romanToInteger.cpp.o CMakeFiles/romanToInteger.dir/testClass.cpp.o CMakeFiles/romanToInteger.dir/February2024/array_v.cpp.o CMakeFiles/romanToInteger.dir/February2024/array_v2.cpp.o CMakeFiles/romanToInteger.dir/February2024/class.cpp.o CMakeFiles/romanToInteger.dir/February2024/const_v1.cpp.o CMakeFiles/romanToInteger.dir/February2024/class_v2.cpp.o CMakeFiles/romanToInteger.dir/February2024/pointers.cpp.o CMakeFiles/romanToInteger.dir/February2024/pointers_v1.cpp.o CMakeFiles/romanToInteger.dir/romanToInteger_v1.cpp.o CMakeFiles/romanToInteger.dir/February2024/malloc.cpp.o CMakeFiles/romanToInteger.dir/February2024/time.cpp.o CMakeFiles/romanToInteger.dir/February2024/splitInt.cpp.o CMakeFiles/romanToInteger.dir/February2024/splitInt_v1.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/romanToInteger.dir
   POST_BUILD = :

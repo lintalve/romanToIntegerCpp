@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 
-int someInt = 1231;
-short someShort = 1412;
+char R_array[] {'I', 'V', 'X', 'L', 'C', 'M'};
+char given_R_array[]{};
 float someFloat = 3456;
 extern int someExterInt;
 
@@ -18,4 +18,5 @@ int main(){
     struct car mercedes;
 
     printf("%s", mercedes.someCstring);
+    printf("some shit");	
 }
